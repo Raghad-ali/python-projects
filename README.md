@@ -1,2 +1,2 @@
 # python-projects
-my solution to seraj competition
+my solutions to seraj competition
